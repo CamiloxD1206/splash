@@ -1,0 +1,18 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Fondo redondeado -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="300dp" />
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+
+    <!-- Icono en el centro con fondo circular -->
+    <item android:drawable="@drawable/icon">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/black" />
+        </shape>
+    </item>
+
+</layer-list>

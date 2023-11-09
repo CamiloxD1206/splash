@@ -77,7 +77,8 @@
                 android:text="@string/login"
                 android:textColor="@color/white"
                 app:cornerRadius="@dimen/cardview_default_radius"
-                android:backgroundTint="@color/black"/>
+                android:backgroundTint="@color/black"
+                />
 
             <TextView
                 android:id="@+id/goRegister"

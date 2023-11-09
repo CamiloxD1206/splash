@@ -33,6 +33,10 @@
             android:exported="true"/>
 
 
+        <activity
+            android:name=".Home_Activity"
+            android:exported="true"/>
+
     </application>
 
 </manifest>
