@@ -74,20 +74,22 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginVertical="10dp"
-                android:text="@string/login"
+                android:text="@string/entrar"
+                android:textColor="@color/white"
+                app:cornerRadius="@dimen/cardview_default_radius"
+                android:backgroundTint="@color/black"
+                />
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnGoRegister"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="10dp"
+                android:text="@string/createcount"
                 android:textColor="@color/white"
                 app:cornerRadius="@dimen/cardview_default_radius"
                 android:backgroundTint="@color/black"
                 />
 
-            <TextView
-                android:id="@+id/goRegister"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/registrate"
-                android:textAlignment="center"
-                android:textSize="14sp"
-                android:textStyle="bold"/>
 
 
         </LinearLayout>

@@ -1,14 +1,22 @@
 <resources>
     <string name="app_name">DARKSIDE</string>
     <string name="login">Login</string>
+    <string name="entrar">Ingresar</string>
+    <string name="createcount">Crear Cuenta</string>
     <string name="bienvenida">BIENVENIDO A DARKSIDE</string>
     <string name="registrate">no tienes cuenta?Registrate</string>
     //---------------------hint-------------------
     <string name="email">Email</string>
+    <string name="register">Registrarse</string>
+    <string name="datos">Datos Personales</string>
     <string name="password">Password</string>
     <string name="profile">Perfil</string>
     <string name="Logout">Cerrar sesion</string>
- //-----------nombres------------------------
+    //-----------nombres------------------------
     <string name="nombre">Camilo Estevan Tacue Salazar</string>
+    /----------------------------------------------------------------
+    <string name="nombresregis">Nombres</string>
+    <string name="apellidosregis">Apellidos</string>
+    <string name="telefonoregis">Telefono</string>
 
 </resources>
