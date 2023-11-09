@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DARKSIDE</string>
+    <string name="login">Login</string>
+    <string name="bienvenida">BIENVENIDO A DARKSIDE</string>
+    <string name="registrate">no tienes cuenta?Registrate</string>
+    //---------------------hint-------------------
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+
+
+</resources>
